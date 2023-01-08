@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TodosList
+build_property.RootNamespace = TodosList
+build_property.ProjectDir = /home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Todos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kb3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Todos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kb3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Todos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kb3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Todos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kb3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Todos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kb3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abdulbasit/myprojects/projects/aspDotNet/MVC/TodosList/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8ucqkgp63f

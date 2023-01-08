@@ -1,0 +1,47 @@
+@model IEnumerable<TodosList.Models.Todos>
+
+@{
+    ViewData["Title"] = "TodosList";
+}
+
+<h1>Todos List</h1>
+
+<p class="my-2">
+    <a class="btn btn-outline-primary" asp-action="Create">Create New</a>
+</p>
+<table class="table  table-striped ">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Desc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Desc)
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.id">Edit</a>
+                <a class="btn btn-success" asp-action="Details" asp-route-id="@item.id">Details</a>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
