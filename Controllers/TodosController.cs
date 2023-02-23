@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodosList.Models;
 using TodosList.Data;
-
 namespace TodosList.Controllers;
 public class TodosController : Controller
 {
@@ -76,8 +75,6 @@ public class TodosController : Controller
     }
 
     // POST: Movies/Edit/5
-    // To protect from overposting attacks, enable the specific properties you want to bind to.
-    // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Edit(int id, [Bind("id,Title,Desc")] Todos todo)
